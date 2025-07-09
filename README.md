@@ -23,7 +23,7 @@ curl -X POST -H "Content-Type: application/json" -d '{"url": "https://pinterest.
 
 ## To use in Apple Shortcuts
 
-[Example shortcut](https://www.icloud.com/shortcuts/a7ed940b1cbc44deaf249a70462cfb70)
+[Example shortcut]()
 
 1. Receive URL from share sheet
 2. Expand the URL (necessary because Pinterest by default gives a shortened URL)
